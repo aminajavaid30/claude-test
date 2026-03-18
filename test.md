@@ -6,7 +6,6 @@ This is a test markdown file committed via Claude Code.
 
 - Created on: 2026-03-18
 - Author: Amina Javaid
-- Email: aminajavaid30@gmail.com
 
 ## About
 
